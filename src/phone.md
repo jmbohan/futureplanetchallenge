@@ -6,7 +6,7 @@ I wonder if this is all one line
 
 - Maybe
 - Probably
-- *not*
+    - $not$ 
 
 1. one
 1. two
@@ -15,5 +15,5 @@ I wonder if this is all one line
 `that is really neat` - work puter ssh'd into laptop
 
 I made a branch to see what that is like using lazygit 
-I don't know where the other mod went. ????
+I pushed it branch up to the wrong branch  
 
